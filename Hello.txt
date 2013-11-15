@@ -13,3 +13,7 @@ NameError: name 'a' is not defined
 >>> a+b
 4
 >>> 
+>>> l = [57,61,68,47,43,60,60,52]
+>>> sum(l) / float(len(l))
+56.0
+>>> 
